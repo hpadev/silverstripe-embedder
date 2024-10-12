@@ -1,6 +1,6 @@
 {
     "name": "richardsjoqvist/silverstripe-embedder",
-    "type": "silverstripe-module",
+    "type": "library",
     "description": "Embedder enables embedding media in content fields area similar to how embeds work in WordPress",
     "homepage": "https://github.com/richardsjoqvist/silverstripe-embedder",
     "keywords": ["silverstripe", "module", "embedder"],
