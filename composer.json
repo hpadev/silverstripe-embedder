@@ -1,5 +1,5 @@
 {
-    "name": "richardsjoqvist/silverstripe-embedder",
+    "name": "hpadev/silverstripe-embedder",
     "type": "library",
     "description": "Embedder enables embedding media in content fields area similar to how embeds work in WordPress",
     "homepage": "https://github.com/richardsjoqvist/silverstripe-embedder",
